@@ -2,7 +2,7 @@
   "name": "wandypurnomo/modularity",
   "description": "Laravel modularity",
   "type": "laravel-package",
-  "license": "private",
+  "license": "proprietary",
   "authors": [
     {
       "name": "wandypurnomo",
