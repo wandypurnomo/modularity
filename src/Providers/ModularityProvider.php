@@ -1,6 +1,6 @@
 <?php
 
-namespace Wandx\Modularity\Providers;
+namespace Wandypurnomo\Modularity\Providers;
 
 use Eventy;
 use File;

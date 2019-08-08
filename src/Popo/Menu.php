@@ -1,4 +1,4 @@
-<?php namespace Wandx\Modularity\Popo;
+<?php namespace Wandypurnomo\Modularity\Popo;
 
 use Eventy;
 

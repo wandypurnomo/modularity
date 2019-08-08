@@ -1,5 +1,5 @@
 {
-  "name": "wandx/modularity",
+  "name": "wandypurnomo/modularity",
   "description": "Laravel modularity",
   "type": "laravel-package",
   "license": "private",
@@ -19,13 +19,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Wandx\\Modularity\\": "src/"
+      "Wandypurnomo\\Modularity\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Wandx\\Modularity\\Providers\\ModularityProvider"
+        "Wandypurnomo\\Modularity\\Providers\\ModularityProvider"
       ]
     }
   }
